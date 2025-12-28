@@ -1,0 +1,7 @@
+{
+  "name": "Tuyen3D",
+  "description": "Biến phác thảo 2D thành concept sản phẩm 3D sống động và hướng dẫn chế tác từ vật liệu tái chế.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
